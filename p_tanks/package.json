@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rubentd/tanks.git"
+    "url": "git+https://github.com/alexey88j/project_tank/edit/project_tank/p_tanks/tanks.git"
   },
   "keywords": [
     "tanks",
@@ -19,9 +19,9 @@
   "author": "Ruben Torres",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rubentd/tanks/issues"
+    "url": "https://github.com/alexey88j/project_tank/edit/project_tank/p_tanks/issues"
   },
-  "homepage": "https://github.com/rubentd/tanks#readme",
+  "homepage": "https://github.com/alexey88j/project_tank/edit/project_tank/p_tanks#readme",
   "dependencies": {
     "express": "^4.13.3",
     "socket.io": "^1.3.7"
